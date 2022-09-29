@@ -1,4 +1,5 @@
 to make any changes do the following:
 
+try this
 1) "git commit -m "your message" filename "
 2) "git push" 
