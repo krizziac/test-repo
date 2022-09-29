@@ -1,5 +1,4 @@
 to make any changes do the following:
 
-1) "git add filename"
-2) "git commit -m "your message" filename "
-3: "git push filename"
+1) "git commit -m "your message" filename "
+2) "git push" 
